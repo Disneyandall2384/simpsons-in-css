@@ -8,8 +8,8 @@
 #ned-flanders
 {
     position: relative;
-    width: 120px;
-    height: 131px; 
+    width: 130px;
+    height: 141px; 
     margin: 0 auto;
 }
 
@@ -98,7 +98,7 @@
 {
     top: 12px;
     left: 45px;
-    width: 9px;
+    width: 15px;
     height: 15px;
     -webkit-transform: rotate(9deg);
     -ms-transform: rotate(9deg);
